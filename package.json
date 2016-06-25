@@ -1,0 +1,11 @@
+{
+  "name": "node-artisanchart",
+  "version": "1.0.0",
+  "description": "Charts for Artisan, online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Clausen <frankc60@gmail.com> (http://coffeeboat.co.uk)",
+  "license": "ISC"
+}
